@@ -1,5 +1,5 @@
 name: Update gist
-on:
+on:  
   push:
     branches:
       - master
